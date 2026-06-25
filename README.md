@@ -32,7 +32,6 @@ The application visualizes how different graph-search paradigms explore state sp
 ## ⚙️ Installation & Usage
 
 1. Clone the repository to your local machine:
-
 2. Navigate to the project directory:
    ```bash
    cd Puzzle solver AI Project
